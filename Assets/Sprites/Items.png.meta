@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: a80a3190e4995074f8d701749b73f177
+timeCreated: 1431131012
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Items_0
+    21300002: Items_1
+    21300004: Items_2
+    21300006: Items_3
+    21300008: Items_4
+    21300010: Items_5
+    21300012: Items_6
+    21300014: Items_7
+    21300016: Items_8
+    21300018: Items_9
+    21300020: Items_10
+    21300022: Items_11
+    21300024: Items_12
+    21300026: Items_13
+    21300028: Items_14
+    21300030: Items_15
+    21300032: Items_16
+    21300034: health1
+    21300036: health2
+    21300038: energy1
+    21300040: energy2
+    21300042: health_big1
+    21300044: health_big2
+    21300046: energy_big1
+    21300048: energy_big2
+    21300050: 1up
+    21300052: Items_26
+    21300054: Items_27
+    21300056: Items_28
+    21300058: Items_29
+    21300060: Items_30
+    21300062: Items_31
+    21300064: Items_32
+    21300066: Items_33
+    21300068: Items_34
+    21300070: Items_35
+    21300072: Items_36
+    21300074: Items_37
+    21300076: Items_38
+    21300078: Items_39
+    21300080: Items_40
+    21300082: Items_41
+    21300084: Items_42
+    21300086: Items_43
+    21300088: Items_44
+    21300090: Items_45
+    21300092: Items_46
+    21300094: Items_47
+    21300096: Items_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Items_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 87
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 87
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 87
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 87
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 87
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 87
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: energy1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: energy2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_big1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_big2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: energy_big1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 66
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: energy_big2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 66
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1up
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 66
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 43
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 43
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 43
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_33
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 43
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_35
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_38
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_43
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Items_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

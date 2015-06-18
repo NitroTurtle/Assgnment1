@@ -1,0 +1,3905 @@
+fileFormatVersion: 2
+guid: 52a5c25b6d7f4eb49b060345281a93f7
+timeCreated: 1431217732
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mega_Man_sprite_0
+    21300002: Mega_Man_sprite_1
+    21300004: Mega_Man_sprite_2
+    21300006: Mega_Man_sprite_3
+    21300008: Mega_Man_sprite_4
+    21300010: Mega_Man_sprite_5
+    21300012: Mega_Man_sprite_6
+    21300014: Mega_Man_sprite_7
+    21300016: Mega_Man_sprite_8
+    21300018: Mega_Man_sprite_9
+    21300020: Mega_Man_sprite_10
+    21300022: Mega_Man_sprite_11
+    21300024: Mega_Man_sprite_12
+    21300026: Mega_Man_sprite_13
+    21300028: Mega_Man_sprite_14
+    21300030: Mega_Man_sprite_15
+    21300032: Mega_Man_sprite_16
+    21300034: Mega_Man_sprite_17
+    21300036: Mega_Man_sprite_18
+    21300038: Mega_Man_sprite_19
+    21300040: Mega_Man_sprite_20
+    21300042: Mega_Man_sprite_21
+    21300044: Mega_Man_sprite_22
+    21300046: Mega_Man_sprite_23
+    21300048: Mega_Man_sprite_24
+    21300050: Mega_Man_sprite_25
+    21300052: Mega_Man_sprite_26
+    21300054: Mega_Man_sprite_27
+    21300056: Mega_Man_sprite_28
+    21300058: Mega_Man_sprite_29
+    21300060: Mega_Man_sprite_30
+    21300062: Mega_Man_sprite_31
+    21300064: Mega_Man_sprite_32
+    21300066: Mega_Man_sprite_33
+    21300068: Mega_Man_sprite_34
+    21300070: Mega_Man_sprite_35
+    21300072: Mega_Man_sprite_36
+    21300074: Mega_Man_sprite_37
+    21300076: Mega_Man_sprite_38
+    21300078: Mega_Man_sprite_39
+    21300080: Mega_Man_sprite_40
+    21300082: Mega_Man_sprite_41
+    21300084: Mega_Man_sprite_42
+    21300086: Mega_Man_sprite_43
+    21300088: Mega_Man_sprite_44
+    21300090: Mega_Man_sprite_45
+    21300092: Mega_Man_sprite_46
+    21300094: Mega_Man_sprite_47
+    21300096: Mega_Man_sprite_48
+    21300098: Mega_Man_sprite_49
+    21300100: Mega_Man_sprite_50
+    21300102: Mega_Man_sprite_51
+    21300104: Mega_Man_sprite_52
+    21300106: Mega_Man_sprite_53
+    21300108: Mega_Man_sprite_54
+    21300110: Mega_Man_sprite_55
+    21300112: Mega_Man_sprite_56
+    21300114: Mega_Man_sprite_57
+    21300116: Mega_Man_sprite_58
+    21300118: Mega_Man_sprite_59
+    21300120: Mega_Man_sprite_60
+    21300122: Mega_Man_sprite_61
+    21300124: Mega_Man_sprite_62
+    21300126: Mega_Man_sprite_63
+    21300128: Mega_Man_sprite_64
+    21300130: Mega_Man_sprite_65
+    21300132: Mega_Man_sprite_66
+    21300134: Mega_Man_sprite_67
+    21300136: Mega_Man_sprite_68
+    21300138: Mega_Man_sprite_69
+    21300140: Mega_Man_sprite_70
+    21300142: Mega_Man_sprite_71
+    21300144: Mega_Man_sprite_72
+    21300146: Mega_Man_sprite_73
+    21300148: Mega_Man_sprite_74
+    21300150: Mega_Man_sprite_75
+    21300152: Mega_Man_sprite_76
+    21300154: Mega_Man_sprite_77
+    21300156: Mega_Man_sprite_78
+    21300158: Mega_Man_sprite_79
+    21300160: Mega_Man_sprite_80
+    21300162: Mega_Man_sprite_81
+    21300164: Mega_Man_sprite_82
+    21300166: Mega_Man_sprite_83
+    21300168: Mega_Man_sprite_84
+    21300170: Mega_Man_sprite_85
+    21300172: Mega_Man_sprite_86
+    21300174: Mega_Man_sprite_87
+    21300176: Mega_Man_sprite_88
+    21300178: Mega_Man_sprite_89
+    21300180: Mega_Man_sprite_90
+    21300182: Mega_Man_sprite_91
+    21300184: Mega_Man_sprite_92
+    21300186: Mega_Man_sprite_93
+    21300188: Mega_Man_sprite_94
+    21300190: Mega_Man_sprite_95
+    21300192: Mega_Man_sprite_96
+    21300194: Mega_Man_sprite_97
+    21300196: Mega_Man_sprite_98
+    21300198: Mega_Man_sprite_99
+    21300200: Mega_Man_sprite_100
+    21300202: Mega_Man_sprite_101
+    21300204: Mega_Man_sprite_102
+    21300206: Mega_Man_sprite_103
+    21300208: Mega_Man_sprite_104
+    21300210: Mega_Man_sprite_105
+    21300212: Mega_Man_sprite_106
+    21300214: Mega_Man_sprite_107
+    21300216: Mega_Man_sprite_108
+    21300218: Mega_Man_sprite_109
+    21300220: Mega_Man_sprite_110
+    21300222: Mega_Man_sprite_111
+    21300224: Mega_Man_sprite_112
+    21300226: Mega_Man_sprite_113
+    21300228: Mega_Man_sprite_114
+    21300230: Mega_Man_sprite_115
+    21300232: Mega_Man_sprite_116
+    21300234: Mega_Man_sprite_117
+    21300236: Mega_Man_sprite_118
+    21300238: Mega_Man_sprite_119
+    21300240: Mega_Man_sprite_120
+    21300242: Mega_Man_sprite_121
+    21300244: Mega_Man_sprite_122
+    21300246: Mega_Man_sprite_123
+    21300248: Mega_Man_sprite_124
+    21300250: Mega_Man_sprite_125
+    21300252: Mega_Man_sprite_126
+    21300254: Mega_Man_sprite_127
+    21300256: Mega_Man_sprite_128
+    21300258: Mega_Man_sprite_129
+    21300260: Mega_Man_sprite_130
+    21300262: Mega_Man_sprite_131
+    21300264: Mega_Man_sprite_132
+    21300266: Mega_Man_sprite_133
+    21300268: Mega_Man_sprite_134
+    21300270: Mega_Man_sprite_135
+    21300272: Mega_Man_sprite_136
+    21300274: Mega_Man_sprite_137
+    21300276: Mega_Man_sprite_138
+    21300278: Mega_Man_sprite_139
+    21300280: Mega_Man_sprite_140
+    21300282: Mega_Man_sprite_141
+    21300284: Mega_Man_sprite_142
+    21300286: Mega_Man_sprite_143
+    21300288: Mega_Man_sprite_144
+    21300290: Mega_Man_sprite_145
+    21300292: Mega_Man_sprite_146
+    21300294: Mega_Man_sprite_147
+    21300296: Mega_Man_sprite_148
+    21300298: Mega_Man_sprite_149
+    21300300: Mega_Man_sprite_150
+    21300302: Mega_Man_sprite_151
+    21300304: Mega_Man_sprite_152
+    21300306: Mega_Man_sprite_153
+    21300308: Mega_Man_sprite_154
+    21300310: Mega_Man_sprite_155
+    21300312: Mega_Man_sprite_156
+    21300314: Mega_Man_sprite_157
+    21300316: Mega_Man_sprite_158
+    21300318: Mega_Man_sprite_159
+    21300320: Mega_Man_sprite_160
+    21300322: Mega_Man_sprite_161
+    21300324: Mega_Man_sprite_162
+    21300326: Mega_Man_sprite_163
+    21300328: Mega_Man_sprite_164
+    21300330: Mega_Man_sprite_165
+    21300332: Mega_Man_sprite_166
+    21300334: Mega_Man_sprite_167
+    21300336: Mega_Man_sprite_168
+    21300338: Mega_Man_sprite_169
+    21300340: Mega_Man_sprite_170
+    21300342: Mega_Man_sprite_171
+    21300344: Mega_Man_sprite_172
+    21300346: Mega_Man_sprite_173
+    21300348: Mega_Man_sprite_174
+    21300350: Mega_Man_sprite_175
+    21300352: Mega_Man_sprite_176
+    21300354: Mega_Man_sprite_177
+    21300356: Mega_Man_sprite_178
+    21300358: Mega_Man_sprite_179
+    21300360: Mega_Man_sprite_180
+    21300362: Mega_Man_sprite_181
+    21300364: Mega_Man_sprite_182
+    21300366: Mega_Man_sprite_183
+    21300368: Mega_Man_sprite_184
+    21300370: Mega_Man_sprite_185
+    21300372: Mega_Man_sprite_186
+    21300374: Mega_Man_sprite_187
+    21300376: Mega_Man_sprite_188
+    21300378: Mega_Man_sprite_189
+    21300380: Mega_Man_sprite_190
+    21300382: Mega_Man_sprite_191
+    21300384: Mega_Man_sprite_192
+    21300386: Mega_Man_sprite_193
+    21300388: Mega_Man_sprite_194
+    21300390: Mega_Man_sprite_195
+    21300392: Mega_Man_sprite_196
+    21300394: Mega_Man_sprite_197
+    21300396: Mega_Man_sprite_198
+    21300398: Mega_Man_sprite_199
+    21300400: Mega_Man_sprite_200
+    21300402: Mega_Man_sprite_201
+    21300404: Mega_Man_sprite_202
+    21300406: Mega_Man_sprite_203
+    21300408: Mega_Man_sprite_204
+    21300410: Mega_Man_sprite_205
+    21300412: Mega_Man_sprite_206
+    21300414: Mega_Man_sprite_207
+    21300416: Mega_Man_sprite_208
+    21300418: Mega_Man_sprite_209
+    21300420: Mega_Man_sprite_210
+    21300422: Mega_Man_sprite_211
+    21300424: Mega_Man_sprite_212
+    21300426: Mega_Man_sprite_213
+    21300428: Mega_Man_sprite_214
+    21300430: Mega_Man_sprite_215
+    21300432: Mega_Man_sprite_216
+    21300434: Mega_Man_sprite_217
+    21300436: Mega_Man_sprite_218
+    21300438: Mega_Man_sprite_219
+    21300440: Mega_Man_sprite_220
+    21300442: Mega_Man_sprite_221
+    21300444: Mega_Man_sprite_222
+    21300446: Mega_Man_sprite_223
+    21300448: Mega_Man_sprite_224
+    21300450: Mega_Man_sprite_225
+    21300452: Mega_Man_sprite_226
+    21300454: Mega_Man_sprite_227
+    21300456: Mega_Man_sprite_228
+    21300458: Mega_Man_sprite_229
+    21300460: Mega_Man_sprite_230
+    21300462: Mega_Man_sprite_231
+    21300464: Mega_Man_sprite_232
+    21300466: Mega_Man_sprite_233
+    21300468: Mega_Man_sprite_234
+    21300470: Mega_Man_sprite_235
+    21300472: Mega_Man_sprite_236
+    21300474: Mega_Man_sprite_237
+    21300476: Mega_Man_sprite_238
+    21300478: Mega_Man_sprite_239
+    21300480: Mega_Man_sprite_240
+    21300482: Mega_Man_sprite_241
+    21300484: Mega_Man_sprite_242
+    21300486: Mega_Man_sprite_243
+    21300488: Mega_Man_sprite_244
+    21300490: Mega_Man_sprite_245
+    21300492: Mega_Man_sprite_246
+    21300494: Mega_Man_sprite_247
+    21300496: Mega_Man_sprite_248
+    21300498: Mega_Man_sprite_249
+    21300500: Mega_Man_sprite_250
+    21300502: Mega_Man_sprite_251
+    21300504: Mega_Man_sprite_252
+    21300506: Mega_Man_sprite_253
+    21300508: Mega_Man_sprite_254
+    21300510: Mega_Man_sprite_255
+    21300512: Mega_Man_sprite_256
+    21300514: Mega_Man_sprite_257
+    21300516: Mega_Man_sprite_258
+    21300518: Mega_Man_sprite_259
+    21300520: Mega_Man_sprite_260
+    21300522: Mega_Man_sprite_261
+    21300524: Mega_Man_sprite_262
+    21300526: Mega_Man_sprite_263
+    21300528: Mega_Man_sprite_264
+    21300530: Mega_Man_sprite_265
+    21300532: Mega_Man_sprite_266
+    21300534: Mega_Man_sprite_267
+    21300536: Mega_Man_sprite_268
+    21300538: Mega_Man_sprite_269
+    21300540: Mega_Man_sprite_270
+    21300542: Mega_Man_sprite_271
+    21300544: Mega_Man_sprite_272
+    21300546: Mega_Man_sprite_273
+    21300548: Mega_Man_sprite_274
+    21300550: Mega_Man_sprite_275
+    21300552: Mega_Man_sprite_276
+    21300554: Mega_Man_sprite_277
+    21300556: Mega_Man_sprite_278
+    21300558: Mega_Man_sprite_279
+    21300560: Mega_Man_sprite_280
+    21300562: Mega_Man_sprite_281
+    21300564: Mega_Man_sprite_282
+    21300566: Mega_Man_sprite_283
+    21300568: Mega_Man_sprite_284
+    21300570: Mega_Man_sprite_285
+    21300572: Mega_Man_sprite_286
+    21300574: Mega_Man_sprite_287
+    21300576: Mega_Man_sprite_288
+    21300578: Mega_Man_sprite_289
+    21300580: Mega_Man_sprite_290
+    21300582: Mega_Man_sprite_291
+    21300584: Mega_Man_sprite_292
+    21300586: Mega_Man_sprite_293
+    21300588: Mega_Man_sprite_294
+    21300590: Mega_Man_sprite_295
+    21300592: Mega_Man_sprite_296
+    21300594: Mega_Man_sprite_297
+    21300596: Mega_Man_sprite_298
+    21300598: Mega_Man_sprite_299
+    21300600: Mega_Man_sprite_300
+    21300602: Mega_Man_sprite_301
+    21300604: Mega_Man_sprite_302
+    21300606: Mega_Man_sprite_303
+    21300608: Mega_Man_sprite_304
+    21300610: Mega_Man_sprite_305
+    21300612: Mega_Man_sprite_306
+    21300614: Mega_Man_sprite_307
+    21300616: Mega_Man_sprite_308
+    21300618: Mega_Man_sprite_309
+    21300620: Mega_Man_sprite_310
+    21300622: Mega_Man_sprite_311
+    21300624: Mega_Man_sprite_312
+    21300626: Mega_Man_sprite_313
+    21300628: Mega_Man_sprite_314
+    21300630: Mega_Man_sprite_315
+    21300632: Mega_Man_sprite_316
+    21300634: Mega_Man_sprite_317
+    21300636: Mega_Man_sprite_318
+    21300638: Mega_Man_sprite_319
+    21300640: Mega_Man_sprite_320
+    21300642: Mega_Man_sprite_321
+    21300644: Mega_Man_sprite_322
+    21300646: Mega_Man_sprite_323
+    21300648: Mega_Man_sprite_324
+    21300650: Mega_Man_sprite_325
+    21300652: Mega_Man_sprite_326
+    21300654: Mega_Man_sprite_327
+    21300656: Mega_Man_sprite_328
+    21300658: Mega_Man_sprite_329
+    21300660: Mega_Man_sprite_330
+    21300662: Mega_Man_sprite_331
+    21300664: Mega_Man_sprite_332
+    21300666: Mega_Man_sprite_333
+    21300668: Mega_Man_sprite_334
+    21300670: Mega_Man_sprite_335
+    21300672: Mega_Man_sprite_336
+    21300674: Mega_Man_sprite_337
+    21300676: Mega_Man_sprite_338
+    21300678: Mega_Man_sprite_339
+    21300680: Mega_Man_sprite_340
+    21300682: Mega_Man_sprite_341
+    21300684: Mega_Man_sprite_342
+    21300686: Mega_Man_sprite_343
+    21300688: Mega_Man_sprite_344
+    21300690: Mega_Man_sprite_345
+    21300692: Mega_Man_sprite_346
+    21300694: Mega_Man_sprite_347
+    21300696: Mega_Man_sprite_348
+    21300698: Mega_Man_sprite_349
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mega_Man_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2058
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2082
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2058
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2058
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2074
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2058
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2058
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2032
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2032
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2032
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2032
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2013
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2013
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2013
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1999
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1974
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1974
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1974
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1974
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1943
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1943
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1943
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1943
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1943
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1943
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1943
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1943
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1911
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1911
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1911
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1911
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1911
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1911
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1911
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1910
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1847
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1871
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1847
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1847
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1863
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1822
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1847
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1847
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1822
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1821
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1821
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1796
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1796
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1796
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1766
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1763
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1763
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_52
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1763
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_53
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1763
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_54
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1732
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_55
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1732
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1732
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1732
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1732
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1732
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1732
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1732
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1700
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_63
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1700
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1700
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1700
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_66
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1700
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1700
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1700
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_69
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1700
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_70
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1638
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_71
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1662
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_72
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1638
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1638
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_74
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1654
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1638
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_76
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1638
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_77
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1612
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_78
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1612
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1612
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1612
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1587
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_82
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1587
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_83
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1587
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1558
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_85
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1554
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_86
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1554
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_87
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1554
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_88
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1554
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_89
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1523
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_90
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1523
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_91
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1523
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_92
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1523
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_93
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1523
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_94
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1523
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_95
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1523
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_96
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1523
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_97
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1491
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_98
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1491
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1491
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_100
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1491
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_101
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1491
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_102
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1491
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_103
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1491
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_104
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1491
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_105
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1429
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_106
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1453
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_107
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1429
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_108
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1429
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_109
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1445
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1429
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_111
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1429
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_112
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1403
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_113
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1403
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_114
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1403
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_115
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1403
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_116
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1378
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_117
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1378
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_118
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1378
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_119
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1350
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_120
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1345
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_121
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1345
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_122
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1345
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_123
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1345
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_124
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1314
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_125
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1314
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1314
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_127
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1314
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_128
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1314
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_129
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1314
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_130
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1314
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_131
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1314
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_132
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1282
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_133
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1282
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1282
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_135
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1282
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_136
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1282
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_137
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1282
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_138
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1282
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_139
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1282
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_140
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1219
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_141
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1243
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_142
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1219
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1219
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_144
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1235
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_145
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1219
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_146
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1219
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_147
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1193
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_148
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1193
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_149
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1193
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_150
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1193
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1168
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_152
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1168
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_153
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1168
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_154
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1141
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_155
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1135
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_156
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1135
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_157
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1135
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_158
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1135
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_159
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1104
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_160
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1104
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_161
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1104
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_162
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1104
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_163
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1104
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_164
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1104
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_165
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1104
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_166
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1104
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_167
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1072
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_168
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1072
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1072
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_170
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1072
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_171
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1072
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_172
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1072
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_173
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1072
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_174
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1072
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_175
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1010
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_176
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1034
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_177
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1010
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_178
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1010
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_179
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1026
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_180
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1010
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_181
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1010
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_182
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 984
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_183
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 984
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_184
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 984
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_185
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 984
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_186
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 959
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_187
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 959
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_188
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 959
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_189
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 932
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_190
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 926
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_191
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 926
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_192
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 926
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_193
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 926
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_194
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 895
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_195
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 895
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_196
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 895
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_197
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 895
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_198
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 895
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_199
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 895
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_200
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 895
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_201
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 895
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_202
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 863
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_203
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 863
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_204
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 863
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_205
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 863
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_206
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 863
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_207
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 863
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_208
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 863
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_209
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 863
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_210
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 801
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_211
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 825
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_212
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 801
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_213
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 801
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_214
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 817
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_215
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 801
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_216
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 801
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_217
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 775
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_218
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 775
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_219
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 775
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_220
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 775
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_221
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 750
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_222
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 750
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_223
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 750
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_224
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 723
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_225
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 717
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_226
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 717
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_227
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 717
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_228
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 717
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_229
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 686
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_230
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 686
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_231
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 686
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_232
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 686
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_233
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 686
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_234
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 686
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_235
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 686
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_236
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 686
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_237
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 654
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_238
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 654
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_239
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 654
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_240
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 654
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_241
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 654
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_242
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 654
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_243
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 654
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_244
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 654
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_245
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 592
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_246
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 616
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_247
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 592
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_248
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 592
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_249
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 608
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_250
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 592
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_251
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 592
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_252
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 566
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_253
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 566
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_254
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 566
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_255
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 566
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_256
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 541
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_257
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 541
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_258
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 541
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_259
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 516
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_260
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 508
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_261
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 508
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_262
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 508
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_263
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 508
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_264
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 477
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_265
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 477
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_266
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 477
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_267
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 477
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_268
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 477
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_269
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 477
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_270
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 477
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_271
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 477
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_272
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 445
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_273
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 445
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_274
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 445
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_275
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 445
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_276
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 445
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_277
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 445
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_278
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 445
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_279
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 445
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_280
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 383
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_281
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 407
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_282
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 383
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_283
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 383
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_284
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 399
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_285
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 383
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_286
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 383
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_287
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 357
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_288
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 357
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_289
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 357
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_290
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 357
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_291
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 332
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_292
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 332
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_293
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 332
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_294
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 305
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_295
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 299
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_296
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 299
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_297
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 299
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_298
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 299
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_299
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 268
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_300
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 268
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_301
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 268
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_302
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 268
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_303
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 268
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_304
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 268
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_305
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 268
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_306
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 268
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_307
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 236
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_308
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 236
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_309
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 236
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_310
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 236
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_311
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 236
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_312
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 236
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_313
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 236
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_314
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 236
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_315
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 173
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_316
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 197
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_317
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 173
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_318
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 173
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_319
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 189
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_320
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 173
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_321
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 173
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_322
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 147
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_323
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 147
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_324
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 147
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_325
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 147
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_326
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 122
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_327
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 122
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_328
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 122
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_329
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_330
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 89
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_331
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 89
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_332
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 89
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_333
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 89
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_334
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 58
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_335
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 58
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_336
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 58
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_337
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 58
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_338
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 58
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_339
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 58
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_340
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 58
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_341
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 58
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_342
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 26
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_343
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 26
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_344
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 26
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_345
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 26
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_346
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 26
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_347
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 26
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_348
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 26
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_sprite_349
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 26
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

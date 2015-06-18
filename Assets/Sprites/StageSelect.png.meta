@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: e0ecf5935cec77e44ae58dba3e1ee6c6
+timeCreated: 1434378125
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StageSelect
+    21300002: StageSelect_1
+    21300004: StageSelect_2
+    21300006: quickman
+    21300008: StageSelect_4
+    21300010: StageSelect_5
+    21300012: StageSelect_6
+    21300014: StageSelect_7
+    21300016: snakeman
+    21300018: needleman
+    21300020: StageSelect_10
+    21300022: StageSelect_11
+    21300024: StageSelect_12
+    21300026: woodman
+    21300028: Goatman
+    21300030: topman
+    21300032: StageSelect_16
+    21300034: StageSelect_17
+    21300036: StageSelect_18
+    21300038: crashman
+    21300040: magnetman
+    21300042: flashman
+    21300044: StageSelect_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StageSelect
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 248
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 191
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 191
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quickman
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 149
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 11}
+    - name: StageSelect_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 149
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 149
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snakeman
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 149
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: needleman
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 149
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 116
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 116
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_12
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 116
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: woodman
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 116
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goatman
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 116
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topman
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 116
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 83
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 83
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 83
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crashman
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 83
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magnetman
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 83
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flashman
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 82
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_0
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 149
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
